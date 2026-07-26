@@ -7,6 +7,8 @@ and Virginica.
 
 ### Dataset
 - Iris Dataset
+- **Rows:** 150 (147 after cleaning)
+- **Columns:** sepal_length, sepal_width, petal_length, petal_width, species
 
 ### Tools Used
 - **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn
