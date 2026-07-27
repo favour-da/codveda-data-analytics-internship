@@ -5,10 +5,10 @@ covering EDA, regression, classification, time series, and NLP.
 
 ## Projects
 - [Iris Classification]
-- [Housing Regression]
+- [House Prediction]
 - [Stock Prices]
 - [Sentiment]
-- [Customer Churn Prediction (20 & 80)]
+- [Churn Bigml (20 & 80)]
 
 ## Tools
 Python (Pandas, Scikit-learn), SQL, Power BI, Jupyter Notebook
