@@ -1,38 +1,13 @@
-# Telecom Customer Churn Analysis
-### Codveda Technology — Data Analytics Internship
+# Telecom Customer Churn Analysis Bigml 80
 
-## Dataset Overview
-
-**File:** `churn-bigml-80.csv`
+## Dataset
+- churn-bigml-80
 **Rows:** 2,666
-**Columns:** 20
-
-| Column | Description |
-|---|---|
-| State | US state abbreviation |
-| Account length | Number of days the account has been active |
-| Area code | Telephone area code |
-| International plan | Whether the customer has an international calling plan (Yes/No) |
-| Voice mail plan | Whether the customer has a voicemail plan (Yes/No) |
-| Number vmail messages | Count of voicemail messages |
-| Total day minutes | Minutes used during the day |
-| Total day calls | Number of calls made during the day |
-| Total day charge | Charge for daytime usage |
-| Total eve minutes | Minutes used during the evening |
-| Total eve calls | Number of calls made during the evening |
-| Total eve charge | Charge for evening usage |
-| Total night minutes | Minutes used at night |
-| Total night calls | Number of calls made at night |
-| Total night charge | Charge for nighttime usage |
-| Total intl minutes | International call minutes |
-| Total intl calls | Number of international calls |
-| Total intl charge | Charge for international usage |
-| Customer service calls | Number of calls made to customer service |
-| Churn | Target variable — whether the customer churned (True/False) |
+**Columns:**  State, Account length, Area code, International plan, Voice mail plan,  Number vmail messages, Total day minutes, Total day calls, Total day charge, Total eve minutes, Total eve calls, Total eve charge, Total night minutes, Total night calls, Total night charge, Total intl minutes, Total intl calls,  Total intl charge, Customer service calls, Churn,
 
 ## Tools Used
-
-Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels), Jupyter Notebook, and Power BI.
+**Python:** pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
+Power BI.
 
 ## Step-by-Step Task Breakdown
 
