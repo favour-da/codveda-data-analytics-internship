@@ -5,7 +5,8 @@ This project applies to a social media sentiment dataset, containing posts with 
 
 ## Dataset 
 - Sentiment Dataset
-- 
+- **Rows**: 732
+- **Columns**: Unnamed: 0.1, Unnamed: 0, Text, Sentiment, Timestamp, User, Platform, Hashtags, Retweets, Likes, Country, Year, Month, Day, Hour
 
 ## Tools Used
 - **Python:** pandas, numpy matplotlib, seaborn, wordcloud scikit-learn (StandardScaler, KMeans, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, GridSearchCV), statsmodels (seasonal_decompose), nltk, TextBlob
@@ -58,9 +59,12 @@ This project applies to a social media sentiment dataset, containing posts with 
 - Compared TextBlob predictions against the broad ground-truth sentiment labels
 - Visualized predicted sentiment distribution
 - Generated word clouds per sentiment class and an overall top-20 word frequency chart
-- Output: `sentiment_dataset_nlp_processed.csv`
   
 ## Limitations / Notes
 - The dataset's 279 fine-grained emotion labels made direct multi-class classification impractical; broad grouping into 3 classes was used instead.
 - TextBlob's lexicon-based sentiment scoring is a simple rule-based approach and does not fully capture the nuance of the original fine-grained emotion labels — accuracy against ground truth reflects this gap.
 - Time series decomposition assumes a weekly (7-day) seasonal cycle; adjust `period` if a different cadence is more appropriate for future analysis.
+
+## Files in this repository
+- 'Sentiment Analysis.ipynb'- Jupyter notebook containing all analysis code
+- 'sentiment_dataset_cleaned.csv'- Cleaned version of the datset
