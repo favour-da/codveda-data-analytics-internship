@@ -1,4 +1,4 @@
-# Codveda Data Analytics Internship — Customer Churn Analysis
+# Customer Churn Analysis Bigml 20
 
 ## About the Project
 A customer-level dataset from a telecom provider, used to analyze and predict churn   
