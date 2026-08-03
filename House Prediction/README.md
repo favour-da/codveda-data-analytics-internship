@@ -101,3 +101,6 @@ clustering, classification, and interactive dashboarding.
 - 'House  Prediction Analysis.ipynb'- Jupyter Notebook with all analysis code
 - 'House Prediction.pbix'- Power BI interactive dashboard
 - 'house_data_cleaned.csv'- Cleaned version of dataset
+
+## Screenshots
+![House Prediction Dashboard](houseprediction.png)
