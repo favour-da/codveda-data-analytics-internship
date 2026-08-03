@@ -61,3 +61,6 @@ and Virginica.
 - 'Iris analysis.ipynb'- Jupyter notebook with all analysis code 
 - 'Iris.pbix'- Power BI interactive dashboard
 - 'Iris_cleaned.csv'- Cleaned version of the dataset
+
+  ##  Screenshots
+![Iris Dashboard](iris.png)
