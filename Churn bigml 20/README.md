@@ -72,3 +72,6 @@ A customer-level dataset from a telecom provider, used to analyze and predict ch
 - 'Churn-bigml-20.pbix'- Power BI interactive dashboard
 - 'churn-bigml-20 analysis.ipynb'- Jupyter notebook with all analysis code
 - 'cvhurn-bigml-20_cleaned.csv'- Cleeaned version of datset 
+
+## Screenshots
+![Churn bigml 20 Dashboard](Churnbigml20.png)
