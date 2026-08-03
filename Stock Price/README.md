@@ -71,4 +71,4 @@ A complete data analytics workflow built on a historical stock prices dataset (2
 - 'Stock_Prices_Cleaned.csv'- Cleaned version of the datset
 
 ## Screenshots
-![Stock Prices Dashboard](stock prices.png)
+![Stock Prices Dashboard](stockprices.png)
