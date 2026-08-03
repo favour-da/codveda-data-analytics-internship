@@ -89,3 +89,6 @@ with day-usage features and customer service calls ranking among the top predict
 - 'Churn-bigml-80.pbix'- Power BI interactive dashboard.
 - 'churn-bigml-80.ipynb'- Jupyter Notebook with all analysis code
 - 'churn-bigml-80_cleaned.csv'- Cleaned version of dataset
+
+## Screenshots
+![Churn bigml 80 Dashboard](Churnbigml80.png)
