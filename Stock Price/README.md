@@ -69,3 +69,6 @@ A complete data analytics workflow built on a historical stock prices dataset (2
 - 'Stock Price.pbix'- Power BI interactive dashboard
 - 'Stock Prices Analysis.ipynb'- Jupyter Notebook with all analysis code
 - 'Stock_Prices_Cleaned.csv'- Cleaned version of the datset
+
+## Screenshots
+![Stock Prices Dashboard](stock prices.png)
